@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="custom.project.id" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>Posyandu-Mobile</name>
+    <description>
+        Posyandu-Mobile adalah aplikasi untuk membantu pendaataan di posyandu
+    </description>
+    <author email="ciciksantosa@gmail.com" href="">
+        Achmia
+    </author>
+    <content src="index.html" />
+    <icon src="res/p.png" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>
