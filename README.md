@@ -3,10 +3,13 @@
 >Aplikasi posyandu-mobile adalah untuk pendataan anak maupun staff di posyandu setempat pengguna applikasi.
 >The posyandu-mobile application is for data collection of children and staff at the local posyandu of application users.
 
+---
+
 download android:
 https://github.com/rumetta-may/Posyandu-Mobile/releases/tag/apk
 web live app:
 https://rumetta-may.github.io/Posyadu_mobile_live/
+
 ---
 **Features/ Fitur-Fitur**
 1. simpan data anak
